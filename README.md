@@ -87,18 +87,15 @@ Após o sucesso do processo de compilação, inicie o programa binário gerado n
 
 # Identificacao dos Desenvolvedores
 
-Aluno 1: Nome Completo - Matricula: XXXXXXX
-
-Aluno 2: Nome Completo - Matricula: XXXXXXX
-
-Aluno 3: Nome Completo - Matricula: XXXXXXX
+Abraão Sousa Lima - 2024009284
+Aristides Maia Neto - 2024006747
+Adriana de Sousa Viana - 2024006540
+João Lucas Viana Almeida - 2024009622
 
 # Informacoes Academicas
 
 Disciplina: Sistemas Operacionais
 
-Contexto: Trabalho em Grupo 2 - Simuladores Didáticos
+Contexto: Simuladores Didáticos de Sistemas Operacionais
 
-Prazo Limite para Entrega: 26/06/2026 as 23:59
-
-Repositório Oficial: [Inserir o Link do GitHub/GitLab do Grupo]
+Repositório Oficial: https://github.com/Abraao-Lima/simulador_so
