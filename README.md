@@ -88,8 +88,11 @@ Após o sucesso do processo de compilação, inicie o programa binário gerado n
 # Identificacao dos Desenvolvedores
 
 Abraão Sousa Lima - 2024009284
+
 Aristides Maia Neto - 2024006747
+
 Adriana de Sousa Viana - 2024006540
+
 João Lucas Viana Almeida - 2024009622
 
 # Informacoes Academicas
